@@ -1,0 +1,81 @@
+.top-bar {
+    background-color: black;
+ /* height: 50px; */
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+ /* margin: auto; */
+    padding: 8px;
+    border-bottom: 5px solid #fd8a24;
+}
+
+headline {
+    font-size: 56px;
+    line-height: 64px;
+}
+
+h2 {
+    color: #111;
+}
+
+.subtitle {
+    font-weight: normal;
+    font-size: 20px;
+}
+
+/* .social-icons>img {
+    height: 20px;
+    width: 20px;
+}  */
+
+.container {
+    max-width: 450px;
+    margin: auto;
+}
+
+.content {
+ /* width: 300px; 
+    margin: auto; */
+}
+
+.content2 {
+    max-width: 300px;
+    margin: auto;   
+}
+
+h5 {
+    text-decoration: underline;
+}
+
+b {
+    color: #44FF10;
+}
+
+/* so quero que toda imagem (>) "dentro" da tag figure receba esse atributo*/
+figure>img {
+    width: 100%;
+}
+
+img {
+    width: 300px;
+    height: 190px;
+}
+
+/* .imagem-header {
+    width: 200px
+    height: 100px;
+    margin: 0;
+    paddin: 0;
+} */
+
+p {
+    font-size: 10px;
+}
+
+body {
+    font-family: 'Open Sans', Ariao, Helvetica;
+    margin: 0;
+    padding: 0;
+    color: #555;
+}
